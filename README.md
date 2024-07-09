@@ -1,3 +1,6 @@
+
+![NBA_PLAYERS](https://github.com/raynersa91/Clustering-NbaPlayers/blob/main/2021-top100-cover.png?raw=true)
+
 # PROJETO
 O Projeto é sobre um Dataset extraído do Kaggle que contempla vários jogadores da NBA e seus dados em cada season (Temporada) . Fiz a análise exploratória dos dados buscando padrões e correlações e, criei um modelo de clusterização destes jogadores.
 
